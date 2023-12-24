@@ -1,5 +1,5 @@
 ﻿import unittest
-from RK_PCPL_Peresipko import *
+from code.py import *
 
 class TestRK2(unittest.TestCase):
     # Оркестры
